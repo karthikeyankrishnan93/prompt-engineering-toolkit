@@ -4,3 +4,5 @@ matplotlib
 pydantic
 google-genai
 pandas
+groq
+python-dotenv
