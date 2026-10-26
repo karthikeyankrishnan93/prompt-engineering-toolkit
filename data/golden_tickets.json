@@ -1,0 +1,17 @@
+[
+  {"text": "My bill was charged twice this month.", "category": "Billing", "priority": "High"},
+  {"text": "How do I update my credit card details?", "category": "Billing", "priority": "Low"},
+  {"text": "I need a refund for my recent invoice.", "category": "Billing", "priority": "Medium"},
+  {"text": "The payment gateway failed during checkout.", "category": "Billing", "priority": "High"},
+  {"text": "Can I get an itemized statement for last year?", "category": "Low"},
+  {"text": "The server keeps crashing on API calls.", "category": "Technical", "priority": "High"},
+  {"text": "Database latency is extremely high today.", "category": "Technical", "priority": "High"},
+  {"text": "Unable to connect via SSH to production node.", "category": "Technical", "priority": "Medium"},
+  {"text": "SSL certificate expired on our subdomain.", "category": "Technical", "priority": "High"},
+  {"text": "Memory leak detected in microservice worker.", "category": "Technical", "priority": "Medium"},
+  {"text": "How do I reset my account password?", "category": "Account", "priority": "Low"},
+  {"text": "I want to delete my user profile permanently.", "category": "Account", "priority": "Medium"},
+  {"text": "Two-factor authentication code is not arriving.", "category": "Account", "priority": "High"},
+  {"text": "Can I change my registered email address?", "category": "Account", "priority": "Low"},
+  {"text": "Unauthorized login attempt detected on my account.", "category": "Account", "priority": "High"}
+]

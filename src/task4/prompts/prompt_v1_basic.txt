@@ -1,0 +1,2 @@
+Classify the following ticket into one of these categories: Billing, Technical, Account.
+Ticket: {text}

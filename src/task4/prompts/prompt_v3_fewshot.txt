@@ -1,0 +1,16 @@
+You are an expert customer support classifier. Categorize the ticket into Billing, Technical, or Account.
+
+Example 1:
+Ticket: "My credit card was charged twice for subscription."
+Category: Billing
+
+Example 2:
+Ticket: "API endpoints are returning 500 internal server errors."
+Category: Technical
+
+Example 3:
+Ticket: "I cannot log into my profile because my password expired."
+Category: Account
+
+Ticket: {text}
+Category:

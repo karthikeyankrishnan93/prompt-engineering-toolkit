@@ -1,0 +1,4 @@
+Role: Expert Customer Support Triage AI.
+Task: Classify the given support ticket.
+Constraints: Output ONLY the exact category name from [Billing, Technical, Account] with no extra text.
+Ticket: {text}

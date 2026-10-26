@@ -1,0 +1,7 @@
+[
+  {"id": 1, "text": "John Doe is a Senior Software Engineer with 6 years of experience in Python, Docker, and Kubernetes."},
+  {"id": 2, "text": "Jane Smith has worked for 4 years as a Data Scientist specializing in PyTorch, Pandas, and SQL."},
+  {"id": 3, "text": "Alex Johnson brings 8 years of DevOps expertise, proficient in Terraform, AWS, and CI/CD pipelines."},
+  {"id": 4, "text": "Emily Davis is a Frontend Developer with 3 years of experience using React, TypeScript, and Tailwind CSS."},
+  {"id": 5, "text": "Michael Brown has 5 years of backend engineering experience specializing in Node.js, PostgreSQL, and Redis."}
+]

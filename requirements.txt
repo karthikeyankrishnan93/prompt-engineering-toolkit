@@ -1,0 +1,6 @@
+tiktoken
+numpy
+matplotlib
+pydantic
+google-genai
+pandas

@@ -1,0 +1,14 @@
+[TEXT 1: Sentence]
+Artificial Intelligence is transforming modern software engineering.
+
+[TEXT 2: Paragraph]
+Large Language Models (LLMs) are advanced machine learning models trained on vast amounts of text data. They use transformer architectures with attention mechanisms to understand, summarize, translate, and generate human-like text efficiently across various programming and natural languages.
+
+[TEXT 3: Long Text / Page]
+In the realm of modern data systems, distributed architectures and cloud computing have fundamentally shifted how enterprises manage large-scale workloads. Containerization tools like Docker and orchestration platforms like Kubernetes enable seamless deployment, scaling, and monitoring of microservices across multiple environments, ensuring high availability and fault tolerance.
+
+[TEXT 4: JSON Data]
+{"user_id": 1024, "username": "developer_pro", "role": "admin", "permissions": ["read", "write", "execute"], "active": true}
+
+[TEXT 5: Tamil Sentence]
+செயற்கை நுண்ணறிவு தொழில்நுட்பம் உலகை மாற்றி அமைத்து வருகிறது.
